@@ -6,4 +6,3 @@
 #Fri Sep 27 10:56:19 CEST 2013
 file_export_version=3.0
 /instance/org.eclipse.debug.ui/Console.limitConsoleOutput=false
-#/instance/org.eclipse.debug.ui/Console.highWaterMark=88000
