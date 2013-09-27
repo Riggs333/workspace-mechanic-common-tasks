@@ -7,7 +7,8 @@
   },  
   tasks: [
     'tasks/compiler_warnings.epf',
-    'tasks/disable_console_limit.epf',
+    'tasks/disable_animations.epf',
+	'tasks/disable_console_limit.epf',
     'tasks/disable_spellchecking.epf',
     'tasks/save_actions.epf',
     'tasks/show_line_numbers.epf',
