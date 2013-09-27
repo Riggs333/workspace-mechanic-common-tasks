@@ -6,10 +6,10 @@
     contact: 'TODO'
   },  
   tasks: [
-    'compiler_warnings.epf',
-    'disable_console_limit.epf',
-    'disable_spellchecking.epf',
-    'save_actions.epf',
-    'show_line_numbers.epf'
+    'tasks/compiler_warnings.epf',
+    'tasks/disable_console_limit.epf',
+    'tasks/disable_spellchecking.epf',
+    'tasks/save_actions.epf',
+    'tasks/show_line_numbers.epf'
   ]
 }
