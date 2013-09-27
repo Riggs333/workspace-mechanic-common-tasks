@@ -1,0 +1,8 @@
+# @title Disable Spellchecking
+# @description Disable Spellchecking
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Sep 26 16:09:47 CEST 2013
+file_export_version=3.0
+/instance/org.eclipse.ui.editors/spellingEnabled=false

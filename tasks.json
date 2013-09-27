@@ -1,0 +1,15 @@
+{
+  type : 'com.google.eclipse.mechanic.UriTaskProviderModel',
+  metadata : {
+    name: 'Common Workspace Mechanic Tasks',
+    description: 'Common tasks for the Workspace Mechanic of Eclipse',
+    contact: 'TODO'
+  },  
+  tasks: [
+    'compiler_warnings.epf',
+    'disable_console_limit.epf',
+    'disable_spellchecking.epf',
+    'save_actions.epf',
+    'show_line_numbers.epf'
+  ]
+}

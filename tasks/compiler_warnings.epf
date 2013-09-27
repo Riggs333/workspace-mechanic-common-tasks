@@ -1,0 +1,21 @@
+# @title Java Compiler Errors/Warnings
+# @description Java Compiler Errors/Warnings
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Sep 27 10:56:19 CEST 2013
+file_export_version=3.0
+/instance/org.eclipse.debug.ui/Console.limitConsoleOutput=false
+#/instance/org.eclipse.debug.ui/Console.highWaterMark=88000
+
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingHashCodeMethod=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedParameterIncludeDocCommentReference=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.possibleAccidentalBooleanAssignment=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unnecessaryTypeCheck=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.redundantNullCheck=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedDeclaredThrownException=ignore
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.potentialNullReference=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.emptyStatement=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedParameter=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unnecessaryElse=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedObjectAllocation=warning
