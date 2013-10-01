@@ -9,3 +9,18 @@ You can install these tasks by registering the following URL as a task source (W
 
 https://raw.github.com/Riggs333/workspace-mechanic-common-tasks/master/tasks.json
 
+
+Other settings
+----
+* JDK (Windows / Preferences / Java / Installed ...)
+* Plugins
+* Code Formatter
+* Package Explorer: Package representation: hierachical
+* Checkstyle Configuration
+* eclipse.ini (?)
+<code>
+-Xms500m
+-Xmx500m
+-XX:PermSize=300M
+-XX:MaxPermSize=300M
+</code>
