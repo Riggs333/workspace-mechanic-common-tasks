@@ -1,0 +1,8 @@
+# @title Add org.junit.Assert.* to Favorites for Content Assist
+# @description Add org.junit.Assert.* to Favorites for Content Assist
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Oct 01 12:06:45 CEST 2013
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=org.junit.Assert.*
