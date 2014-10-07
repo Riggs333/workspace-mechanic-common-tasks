@@ -1,0 +1,8 @@
+# @title Groovy Preferences
+# @description Remove Semicolons
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon Oct 21 13:00:23 CEST 2013
+file_export_version=3.0
+/instance/org.codehaus.groovy.eclipse.ui/groovy.SaveAction.RemoveUnnecessarySemicolons=true
