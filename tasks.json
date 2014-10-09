@@ -10,7 +10,7 @@
     'tasks/disable_animations.epf',
 	'tasks/disable_console_limit.epf',
     'tasks/disable_spellchecking.epf',
-	'tasks/do_not_limit_items_in_problems_view',
+	'tasks/do_not_limit_items_in_problems_view.epf',
 	'tasks/junit_assert_to_favorites_for_content_assist.epf',
     'tasks/groovy_preferences.epf',
 	'tasks/save_actions.epf',
