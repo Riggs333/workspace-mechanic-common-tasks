@@ -12,7 +12,7 @@
     'tasks/disable_spellchecking.epf',
 	'tasks/do_not_limit_items_in_problems_view',
 	'tasks/junit_assert_to_favorites_for_content_assist.epf',
-    'tasks/groovy_preferences',
+    'tasks/groovy_preferences.epf',
 	'tasks/save_actions.epf',
     'tasks/show_line_numbers.epf',
 	'tasks/workspace-encoding-utf-8.epf'
